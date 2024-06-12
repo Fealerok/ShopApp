@@ -51,4 +51,4 @@
 Окно добавления нового пользователя.
 </br> </br> </br>
 
-[![Watch the video]()](https://github.com/Fealerok/ShopApp/blob/main/ScreensForRepository/ProjectVideo.mp4)
+
