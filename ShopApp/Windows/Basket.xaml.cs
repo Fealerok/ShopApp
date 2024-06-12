@@ -83,5 +83,14 @@ namespace ShopApp.Windows
 
 
         }
+
+        private void BuyProducts(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Вы успешно приобрели товары!");
+
+            db.DeleteFromBasket(_id);
+
+            UpdateTable();
+        }
     }
 }

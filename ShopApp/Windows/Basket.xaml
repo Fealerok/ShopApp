@@ -35,7 +35,8 @@
             </Grid.RowDefinitions>
 
             <Button Height="150" Content="Удалить из корзины" FontSize="25" Click="DeleteFromBasket"></Button>
-            <Button Height="150" Content="Выйти" FontSize="25" Grid.Row="1" Click="Leave"></Button>
+            <Button Height="150" Content="Оформить покупку" FontSize="25" Grid.Row="1" Click="BuyProducts"></Button>
+            <Button Height="150" Content="Выйти" FontSize="25" Grid.Row="2" Click="Leave"></Button>
         </Grid>
     </Grid>
 </Window>
