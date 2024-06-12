@@ -31,6 +31,7 @@
 
 # Скриншоты приложения:
 ![Окно входа в приложение](https://github.com/Fealerok/ShopApp/blob/main/ScreensForRepository/1_LoginWindow.png)
+</br>
 Окно входа в приложение.
 </br> </br> </br>
 
