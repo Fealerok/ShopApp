@@ -50,3 +50,5 @@
 ![Окно добавления нового пользователя](https://github.com/Fealerok/ShopApp/blob/main/ScreensForRepository/5_AddingNewUser.png)
 Окно добавления нового пользователя.
 </br> </br> </br>
+
+<video src='https://github.com/Fealerok/ShopApp/blob/main/ScreensForRepository/ProjectVideo.mp4' width=180/>
